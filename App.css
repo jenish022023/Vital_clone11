@@ -1,0 +1,27 @@
+body {
+  margin: 0;
+  padding: 0;
+}
+.App {
+  display: flex;
+}
+main {
+  padding: 10px;
+}
+.header .header-content{
+  height: 100%;
+    padding-left: 5.3125rem;
+    padding-right: 2.4rem;
+    align-items: center;
+    display: flex;
+    
+}
+.content{
+  display: flex;
+  justify-content: flex-end;
+  padding: 10px;
+  padding-bottom: 20px;
+  padding-top: 20px;
+  background-color: rgb(61, 255, 229);
+
+}
